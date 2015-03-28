@@ -45,3 +45,7 @@ Temporary Items
 Binaries/
 Intermediate/
 Saved/
+.opensdf
+.sdf
+.sln
+.v12.suo
